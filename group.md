@@ -42,6 +42,7 @@ html {
 }
 
 .button {
+  border: none;
   border-radius: 10px;
   outline: 0;
   display: inline-block;
@@ -68,7 +69,7 @@ html {
         <p>Student nº45356</p>
         <p><button class="button" href="https://github.com/VeilLight">github@VeilLight</button></p>
       </div>
-	</div>
+	 </div>
   </div>
   <div class="column">
     <div class="card">
