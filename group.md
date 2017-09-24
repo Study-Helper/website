@@ -43,7 +43,7 @@ html {
 
 .button {
   border: none;
-  border-radius: 10px;
+  border-radius: 5px;
   outline: 0;
   display: inline-block;
   padding: 8px;
@@ -67,7 +67,7 @@ html {
         <h2>António Ferreira</h2>
         <p class="title">Developer</p>
         <p>Student nº45356</p>
-        <p><button class="button" href="https://github.com/VeilLight">github@VeilLight</button></p>
+        <p><button class="button" onclick="location.href='https://github.com/VeilLight'">github@VeilLight</button></p>
       </div>
 	 </div>
   </div>
@@ -78,7 +78,7 @@ html {
         <h2>Francisco Cunha</h2>
         <p class="title">Developer</p>
         <p>Student nº45412</p>
-        <p><button class="button" href="https://github.com/ImXico">github@ImXico</button></p>
+        <p><button class="button" onclick="window.location.href='https://github.com/ImXico'">github@ImXico</button></p>
       </div>
     </div>
   </div>
@@ -89,7 +89,7 @@ html {
         <h2>Luís Martins</h2>
         <p class="title">Developer</p>
         <p>Student nº45640</p>
-        <p><button class="button" href="https://github.com/luis5566">github@luis5566</button></p>
+        <p><button class="button" onclick="window.location.href='https://github.com/luis5566'">github@luis5566</button></p>
       </div>
     </div>
   </div>
