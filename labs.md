@@ -12,7 +12,7 @@ be done differently.
 
 ## Examples of Good UI
 
-### Circular Launchers
+### I. Circular Launchers
 
 > Android launchers are apps that can spice up your phone's home screen (...) - [source](https://www.cnet.com/how-to/everything-you-need-to-know-about-android-launchers/)
 
@@ -29,18 +29,37 @@ Circular launchers succeed because they simply *play nice* with your thumbs. No 
 two hands), these are specifically designed for usability; you won't ever need to stretch your fingers to reach certain elements,
 which is a very common problem.
 
-In his book *Designing for Touch*, writter Josh Clark has recorded in-depth information on [how people hold their devices](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/), obtaining
+In his book *Designing for Touch*, writer Josh Clark has recorded in-depth information on [how people hold their devices](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/), obtaining
 the following results:
 
 ![](https://i.imgur.com/yTgxOPd.png)
 
 By focusing on the natural zone of the touchscreen, the circular launchers provide a very elegant solution to this common usability
-issue, and thus represent a good, confortable user interface.
+issue, and thus represent a good, comfortable user interface.
 
+### II. Telegram
+
+> A new era of messaging.
+
+This application lets users exchange messages in a simple and effective way.
+
+#### What's good about it?
+
+Its interface allows the visualization of not only sent/received messages but also other relevant information for each message, such as its status or the remittee's name and photo.
+It also offers a search bar and a menu with various other options.
+
+![](https://i.imgur.com/OY1Anzm.jpg)
+
+From its qualities, the following stand out:
+- The names of the users visually stand out from the rest of the information, making it easier
+to differentiate them from the rest of the text, facilitating the reading.
+- One can access relevant message metadata such as last activity time and status without having to explicitly open those messages
+- The UI spreads really nicely through the application window, and the boundaries of each section are well defined via colour combinations and backgrounds.
+- The highlight colour that stands out when the user clicks some chat and the name/photo of the user associated with that chat make it really easy to "stay in the zone" (i.e. when minimizing and coming back, the user knows where he left off).
 
 ## Examples of Bad UI
 
-### Complex (Digital) Forms
+### I. Complex (Digital) Forms
 
 > Despite being one of the most important types of digital interaction, long/messy forms are often seen as very annoying.
 
@@ -65,3 +84,16 @@ input fields and good hints/user-forgiving formatting. There have been several a
 and I'd like to focus on one that I've stumbled across some time ago and find very unique. It's called [TypeForm](https://www.typeform.com):
 
 ![](https://i.imgur.com/WRIAKvb.png)
+
+### II. RTP Play
+
+This application allows users to follow live emissions of TV and radio, fully rewatch shows and access the RTP's programming. That being said, this interface's focus should be on letting the user search, filter and watch content with minimum effort.
+
+![](https://i.imgur.com/kV8gfNH.png)
+
+#### What are the problems?
+
+- The colour choice isn't the best, considering that the colour blue is the less perceptible one to the human eye. Specifically, in the case of menu, mixing various tones of blue makes the reading even more difficult.
+- The second menu could have its size reduced (or be more space-efficient), reducing those two sub-menus (by channel and by theme) to checkboxes.
+- The menu icon could change when the menu is open, making it more clear that clicking on it again the second menu would be toggled off again.
+- The space taken by each item of the results is badly optimised.
