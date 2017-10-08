@@ -48,7 +48,7 @@ html {
   display: inline-block;
   padding: 8px;
   color: white;
-  background-color: #159957;
+  background-color: linear-gradient(120deg, #155799, #159957);
   text-align: center;
   cursor: pointer;
   width: 100%;
