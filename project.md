@@ -2,7 +2,7 @@
 
 Here you can find resources and information about the phases of our project.
 
-# Phase 1
+## Phase 1
 
 ### Stage 1 - Project Proposal
 
