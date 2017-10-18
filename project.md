@@ -1,6 +1,6 @@
 # Project
 
-Here you can find resources and information about the phases of our project.
+Here you can find resources and information about the stages of our project.
 
 ## Phase 1
 
