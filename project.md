@@ -20,4 +20,4 @@ Here you can find resources and information about the stages of our project.
 
       This stage describes our first modeling sketches of the application.
 
-      To download the stage two PDF document, click [here](assets/Stage3.pdf).
+      To download the stage three PDF document, click [here](assets/Stage3.pdf).
