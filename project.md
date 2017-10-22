@@ -15,3 +15,9 @@ Here you can find resources and information about the stages of our project.
       In this stage we discuss the main users of our system and the tasks they will perform. The main task analysis will also be mentioned.
 
       To download the stage two PDF document, click [here](assets/Stage2.pdf).
+  
+  * ### Stage 3 - 1st Prototype (Paper)
+
+      This stage describes our first modeling sketches of the application.
+
+      To download the stage two PDF document, click [here](assets/Stage3.pdf).
