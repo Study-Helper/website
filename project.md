@@ -21,3 +21,13 @@ Here you can find resources and information about the stages of our project.
       This stage describes our first modeling sketches of the application.
 
       To download the stage three PDF document, click [here](assets/Stage3.pdf).
+
+## Phase 2
+
+  * ### Stage 4 - Computational prototype
+
+      In this stage, according to the results obtained during the paper prototype tests, we showcase our computer prototype!
+      The startup instructions to run our application are described in the file below.
+
+      To download the stage four PDF document, click [here](assets/Stage4.pdf).
+      
