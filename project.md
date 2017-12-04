@@ -41,6 +41,6 @@ To download the stage five PDF document, click [here](assets/Stage5.pdf).
 
 For this final phase of our project, we addressed the problems pointed out by our evaluators. Furthermore, we performed some tweaks and corrections on problems we found in the meantime.
 
-To download our eveluator's report, PDF document, click [here](assets/EvaluatorsPDF.pdf).
+To download our evaluators' report, PDF document, click [here](assets/EvaluatorsPDF.pdf).
 
 To download the stage six PDF document, click [here](assets/Stage6.pdf).
