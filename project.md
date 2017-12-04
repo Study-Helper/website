@@ -29,13 +29,14 @@ The startup instructions to run our application are described in the file below.
 To download the stage four PDF document, click [here](assets/Stage4.pdf).
       
 * ### Stage 5 - Heuristic Evaluation
-For this stage, another group took was given our computational prototype (from Stage 4) and performed an heuristic              evaluation.
+For this stage, we were given the computational prototype of another group and performed an heuristic evaluation on their application.
 
 To download the stage five PDF document, click [here](assets/Stage5.pdf).
   
 * ### Stage 6 - Evaluation Results and Presentation
 For this final phase of our project, we addressed the problems pointed out by our evaluators. Furthermore, we performed some tweaks and corrections on problems we found in the meantime.
 
+To download our eveluator's report, PDF document, click [here](assets/EvaluatorsPDF.pdf).
 To download the stage six PDF document, click [here](assets/Stage6.pdf).
   
   
